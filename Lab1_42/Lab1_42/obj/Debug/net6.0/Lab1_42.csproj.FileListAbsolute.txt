@@ -1,0 +1,30 @@
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.exe
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.deps.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.runtimeconfig.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.csproj.AssemblyReference.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.AssemblyInfoInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.AssemblyInfo.cs
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.csproj.CoreCompileInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\refint\Lab1_42.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.genruntimeconfig.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_42\Lab1_42\obj\Debug\net6.0\ref\Lab1_42.dll
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.exe
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.deps.json
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.runtimeconfig.json
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.dll
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\bin\Debug\net6.0\Lab1_42.pdb
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.csproj.AssemblyReference.cache
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.AssemblyInfoInputs.cache
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.AssemblyInfo.cs
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.csproj.CoreCompileInputs.cache
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.dll
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\refint\Lab1_42.dll
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.pdb
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\Lab1_42.genruntimeconfig.cache
+C:\Users\Illia\Desktop\Lab1_42\Lab1_42\obj\Debug\net6.0\ref\Lab1_42.dll
